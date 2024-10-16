@@ -25,5 +25,4 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YourUsername/BiologicalGeneExpressionDataVisualization.git
-   cd BiologicalGeneExpressionDataVisualization
+   git clone https://github.com/SanjayKMangrani/BGEDV
